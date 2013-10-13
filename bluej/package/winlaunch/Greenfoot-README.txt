@@ -1,0 +1,1 @@
+This is a special version of greenfoot only used for algorithm and is the project of rowanto's bachelor thesis.

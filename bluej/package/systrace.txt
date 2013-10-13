@@ -1,0 +1,16 @@
+﻿=================
+Startet die Generierung des Aktivierungskontextes.
+Eingabeparameter:
+	Flags = 0
+	ProcessorArchitecture = Wow32
+	CultureFallBacks = de-DE;de
+	ManifestPath = C:\Greenfoot\greenfoot.exe
+	AssemblyDirectory = C:\Greenfoot\
+	Application Config File = 
+-----------------
+INFORMATION: Manifestdatei "C:\Greenfoot\greenfoot.exe" wird analysiert.
+	INFORMATION: Die Manifestsdefinitionsidentität ist "(null)".
+	FEHLER: Zeile 6: Der Wert A.1.0.0 des "version"-Attributs im assemblyIdentity-Element ist ungültig.
+FEHLER: Bei der Generierung des Aktivierungskontextes ist ein Fehler aufgetreten.
+Beendet die Generierung des Aktivierungskontextes.
+
